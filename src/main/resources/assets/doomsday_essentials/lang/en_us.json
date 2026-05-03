@@ -1,0 +1,34 @@
+{
+  "block.doomsday_essentials.iridium_block": "Iridium Block",
+  "block.doomsday_essentials.platinum_block": "Platinum Block",
+
+  "block.doomsday_essentials.iridium_ore": "Iridium Ore",
+  "block.doomsday_essentials.deepslate_iridium_ore": "Deepslate Iridium Ore",
+  "block.doomsday_essentials.platinum_ore": "Platinum Ore",
+  "block.doomsday_essentials.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.doomsday_essentials.charred_wood": "Charred Wood",
+  "block.doomsday_essentials.withered_leaves": "Withered Leaves",
+  "block.doomsday_essentials.salt_crusted_dirt": "Salt Crusted Dirt",
+
+  "item.doomsday_essentials.raw_iridium": "Raw Iridium",
+  "item.doomsday_essentials.iridium_ingot": "Iridium Ingot",
+  "item.doomsday_essentials.enriched_iridium": "Enriched Iridium",
+
+  "item.doomsday_essentials.raw_platinum": "Raw Platinum",
+  "item.doomsday_essentials.platinum_ingot": "Platinum Ingot",
+  "item.doomsday_essentials.iridium_platinum": "Iridium-Platinum Alloy",
+  "item.doomsday_essentials.ash": "Ash",
+  "item.doomsday_essentials.creative_terraformer": "Creative Terraformer",
+  "message.doomsday_essentials.restored_earth_unavailable": "Restored Earth is unavailable in this world.",
+
+  "itemGroup.doomsday_essentials.doomsday_essentials_tab": "Doomsday Essentials",
+  "generator.doomsday_essentials.doomsday": "Doomsday",
+  "world_preset.doomsday_essentials.doomsday": "Doomsday",
+
+  "item.doomsday_essentials.salt_water_bucket": "Salt Water Bucket",
+  "block.doomsday_essentials.salt_water_block": "Salt Water",
+  "block.doomsday_essentials.salt_water_cauldron": "Salt Water Cauldron",
+  "fluid_type.doomsday_essentials.salt_water_fluid": "Salt Water",
+  "fluid.doomsday_essentials.source_salt_water": "Salt Water",
+  "fluid.doomsday_essentials.flowing_salt_water": "Flowing Salt Water"
+}
