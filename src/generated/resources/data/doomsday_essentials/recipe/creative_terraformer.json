@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "doomsday_essentials:enriched_iridium"
+    },
+    "I": {
+      "item": "doomsday_essentials:iridium_ingot"
+    },
+    "P": {
+      "item": "doomsday_essentials:platinum_ingot"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "PEP",
+    "IPI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "doomsday_essentials:creative_terraformer"
+  }
+}

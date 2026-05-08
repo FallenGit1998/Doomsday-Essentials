@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "doomsday_essentials:platinum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "doomsday_essentials:platinum_ingot"
+  }
+}

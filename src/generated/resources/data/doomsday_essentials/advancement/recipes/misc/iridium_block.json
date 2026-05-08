@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingot_iridium": {
+      "conditions": {
+        "items": [
+          {
+            "items": "doomsday_essentials:iridium_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "doomsday_essentials:iridium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ingot_iridium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "doomsday_essentials:iridium_block"
+    ]
+  }
+}

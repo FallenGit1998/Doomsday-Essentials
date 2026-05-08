@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "doomsday_essentials:block/charred_log_top",
+    "side": "doomsday_essentials:block/charred_log"
+  }
+}
